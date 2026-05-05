@@ -27,6 +27,7 @@ Java · Spring Boot · Kafka · Kubernetes · ClickHouse · PostgreSQL · AWS / 
 | [generic-rag-agent](https://github.com/aipushdev/generic-rag-agent) | Universal RAG platform - upload docs, set a prompt, get an assistant | 🟢 Live at [aipush.dev](https://aipush.dev) |
 | [psychoai-rag-assistant](https://github.com/aipushdev/psychoai-rag-assistant) | Production RAG bot for gestalt therapy knowledge base — Faithfulness = 1.0 (RAGAS) | ✅ Production |
 | [multimodal-telegram-bot](https://github.com/aipushdev/multimodal-telegram-bot) | Telegram bot with text + voice (Whisper) + photo (Gemini Vision) + image generation | ✅ Complete |
+| [ai-personal-assistant](https://github.com/aipushdev/ai-personal-assistant) | Universal AI assistant — text, voice (Whisper STT + TTS), vision, DALL-E 3, RAG over your docs | ✅ Complete |
 
 ---
 
